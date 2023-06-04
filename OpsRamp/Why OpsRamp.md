@@ -1,9 +1,10 @@
 #
-## Why OpsRamps
+## Why OpsRamps ?
+#
 
-- Major challange to operations is managing evolving technology stack.
+> Major challange to operations is managing evolving technology stack.
 
-- Specifically  when there are multiple customer environments with hybrid workloads and other tools.
+> Specifically  when there are multiple customer environments with hybrid workloads and other tools.
 
 #
 ![Capture](https://github.com/ashrafkgit/OpsRamp/assets/134578702/7898eb91-75f6-4e54-af79-1a622588c805)
